@@ -18,6 +18,7 @@ Python with libraries
   matplotlib
   numpy 
   pandas
+  tensorflow
   keras
   sklearn
 ```
